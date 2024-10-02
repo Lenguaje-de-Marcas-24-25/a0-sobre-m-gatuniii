@@ -5,8 +5,8 @@
 ** córdoba
 
 ## Mis hobbies
--dibujar
--Tatuar
+*-dibujar
+*-Tatuar
 -Salir
 
 ## redes sociales
